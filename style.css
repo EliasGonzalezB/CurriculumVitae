@@ -1,0 +1,159 @@
+#foto1{
+width: 30%;
+float: right;
+margin: 5% 10% 5% 10%;
+border-radius: 50%;
+}
+#tabla1 {
+    width: 100%;
+    
+}
+#divP{
+    background-color: rgb(207, 220, 221);
+    margin: 0px 0px 0px 0px;
+}
+h3{
+    font-family:'Roboto Condensed', sans-serif;
+    color: black;
+    display: inline;
+}
+h1{
+    font-family:'Roboto Condensed', sans-serif;
+    color: black;
+    text-align: center;
+    margin: 0px;
+    padding: 10px;
+}
+.contenedor-icono svg {
+    color: black;
+}
+h2{
+    display: inline;
+    font-family:'Roboto Condensed', sans-serif;
+}
+#De{
+    margin: 20px;
+    padding: 0px;
+}
+#tecnico{
+    font-family:'Roboto Condensed', sans-serif;
+    display: inline;
+}
+#italic{
+    font-style: italic; 
+    font-family:'Roboto Condensed', sans-serif;
+    display: inline;
+}
+#Hs{
+    margin: 20px 20px 20px 20px;
+    padding: 0px;
+}
+h5{
+    font-family:'Roboto Condensed', sans-serif;
+}
+#Lg{
+    margin: 20px;
+    padding: 0px;
+}
+#idiomas{
+    margin: 20px;
+    padding: 0px;
+}
+#idio{
+    font: bolder;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+h4{
+    font: bolder;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#Ct{
+    margin: 20px;
+    padding: 0px;
+}
+#YPP{
+    font-family:'Roboto Condensed', sans-serif;
+}
+#YPP1{
+    border: 0px;
+}
+#ITPT{
+    font-family:'Roboto Condensed', sans-serif;
+}
+#ITPT1{
+    border: 0px;
+}
+#courses{
+    margin: 20px;
+    padding: 0px;
+}
+#AP{
+    font-family:'Roboto Condensed', sans-serif;
+    display: inline;
+}
+#MDP{
+    font-style: italic; 
+    font-family:'Roboto Condensed', sans-serif;
+    display: inline;
+}
+#APv{
+    font-style: italic; 
+    font-family:'Roboto Condensed', sans-serif;    
+}
+#APv4{
+    font-style: italic; 
+    font-family:'Roboto Condensed', sans-serif;
+}
+#intereses{
+    margin: 20px;
+    padding: 0px;
+}
+footer{
+    background-color:rgb(60, 64, 66);
+    text-align: center;
+}
+#footerl{
+    color: white;
+}
+#perfil{
+    color: white;
+    text-decoration: none;
+}
+#barra{
+    color: white;
+    padding: 0px;
+}
+a:hover{
+    background-color: rgb(22, 22, 20);
+}
+#numero{
+    text-align: center;
+    padding: 0px;
+}
+#argentina{
+    text-align: center;
+    padding: 0px;
+}
+#mail{
+    text-align: right;
+    padding: 0px;
+}
+#nacimiento{
+    text-align: right;
+    padding: 0px;
+}
+#TDF{
+    text-align: left;
+    padding: 0px;
+}
+#sexo{
+    text-align: left;
+    padding: 0px;
+}
+#stiloo{
+    text-align: center;
+}
+.div{
+    padding: 0px;
+}
+
